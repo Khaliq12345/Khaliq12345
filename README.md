@@ -1,8 +1,6 @@
 ### Hi there 👋 I am Khaliq.
 
-- 🔭 I’m currently working on streamlit web applications. Here is my recent web app: https://khaliq12345-botw--scraper-botw-stream-web-app-u4h5r0.streamlit.app/
-- 🌱 I’m currently learning with the help of the streamlit documentation: https://docs.streamlit.io/
-- 🤔 I’m looking for help with customizing my web apps
+- 🔭 I’m currently working on Machine Learning and Deep Learning
 - 💬 Ask me about anything. I love helping :stuck_out_tongue_winking_eye:
 - 📫 How to reach me: khaliqsalawoudeen@gmail.com
 
