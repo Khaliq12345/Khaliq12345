@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Khaliq.
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning
+- 🔭 I’m currently Learning ML/DL
 - 💬 Ask me about anything. I love helping :stuck_out_tongue_winking_eye:
 - 📫 How to reach me: khaliqsalawoudeen@gmail.com
 
